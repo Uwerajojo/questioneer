@@ -1,0 +1,1 @@
+var flavor = $("input:radio[name=ab]:checked").val();
