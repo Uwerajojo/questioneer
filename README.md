@@ -1,4 +1,4 @@
-# questioneer
+# Questioneer
 ### Javascript quiz-board, 21/12/2018
 By # Uwera Josiane,software developer
 
@@ -18,7 +18,7 @@ Support and contact details
 ### contact me using josianeuwera23@gmail.com,Uwerajojo on github and also +250 783136939(mobile number).
 
 Link to check my quizboard
-### https://github.com/Uwerajojo/questioneer 
+### https://uwerajojo.github.io/questioneer/ 
 
 License
  copyrightjosianeuwera 2018.
